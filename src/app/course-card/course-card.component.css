@@ -1,0 +1,11 @@
+.course-card.beginner {
+    background: lightsalmon;
+}
+
+.course-card.intermediate {
+    background: lightgreen;
+}
+
+.course-card.advanced {
+    background: lightskyblue;
+}
